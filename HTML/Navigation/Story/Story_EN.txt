@@ -1,0 +1,27 @@
+1. You woke up and startet a new day:
+a. with joy?
+b. depressed?
+
+2.a. The day flows pleasantly for you, doing interesting things with pleasant communication with the environment,
+Lunch has arrived, what is more important for you?
+a. healthy meal.
+b. tasty meal.
+
+2.b. The day goes hard , difficult, doing uninteresting things with annoying communication with the environment,
+Lunch has arrived, what is more important for you?
+a. healthy meal.
+b. tasty meal.
+
+3.a. You ate healthy food that left you full of energy, You continued your day with 
+inspiring and important activities, at the end of day you you returned home to sleep with?
+a. content
+b. despair
+
+
+3.b. You ate really delicious food, which left you heavy with little energy,
+You continued your day doing boring activities and counted the time until the end of the day,
+at the end of day you you returned home to sleep with?
+a. content
+b. despair
+
+
