@@ -1,2 +1,2 @@
 Create user interface (UI) for your first html page 
-using html tags header,h1,main , img with success.jpg,footer tags with demo text,
+using html tags header,h1,main , img with success.jpg,footer tags with demo text.
